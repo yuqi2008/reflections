@@ -14,7 +14,7 @@ organized? How would branches help?
 	when I want to a test feather
 
 How do the diagrams help you visualize the branch structure?
-
+	so I can see all branch structure
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
