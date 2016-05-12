@@ -7,9 +7,11 @@ What value do you think it offers?
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+	use stage area to temp store small changes, when a logical change was made, commit it. 
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+	when I want to a test feather
 
 How do the diagrams help you visualize the branch structure?
 
